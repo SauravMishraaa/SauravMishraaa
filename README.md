@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SauravMishraaa
-- 👀 I’m in 2nd year Btech CSE student at ITER 
+- 👀 I’m a 2nd year BTech CSE student at ITER 
 - 🌱 I’m currently learning and exploring things.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
