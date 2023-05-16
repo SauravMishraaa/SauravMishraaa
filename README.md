@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/saurav-mishra-sa2003/"><img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=blue&style=for-the-bage"/></a>
 <a href="https://www.kaggle.com/sauravmishraa"><img src="https://img.shields.io/badge/Kaggle-Logo-20BEFF?style=flat&logo=kaggle" alt="Kaggle Logo
 "/></a>
-- Hugging Face : https://huggingface.co/SauravMishra
+<!-- - Hugging Face : https://huggingface.co/SauravMishra -->
 
 <a href="https://huggingface.co/SauravMishra"><img src="https://img.shields.io/badge/Hugging%20Face-Logo-FFAE42?style=flat&logo=hugging%20face
 " alt="Hugging Face Logo
