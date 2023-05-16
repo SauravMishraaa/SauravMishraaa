@@ -7,6 +7,9 @@
 - Kaggle :  https://www.kaggle.com/sauravmishraa
 - Hugging Face : https://huggingface.co/SauravMishra
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SauravMishraaa&show_icons=true" alt="PM" /></p>
+<p align="center">
+
 Thank you for visiting my account ! 🙏
 <!---
 SauravMishraaa/SauravMishraaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
