@@ -7,7 +7,7 @@
 - Kaggle :  https://www.kaggle.com/sauravmishraa
 - Hugging Face : https://huggingface.co/SauravMishra
 
-<img src="https://external-preview.redd.it/4iLw261NYmI75Vfek2tOjV7zsGVZzXAgp5GhSD0k2tE.gif?width=1281&format=mp4&v=enabled&s=f70592ce72fd71a5e05e74471ce36c0ef63921d1" width="400"/>
+<img src="https://64.media.tumblr.com/b1785743b8742d255508773ce5bbc320/tumblr_pp1k8pBF6o1tf04pfo1_640.gif" width="400"/>
 
 ## Languages, Libraries and Frameworks used :
 <img align="left" alt="Python3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
