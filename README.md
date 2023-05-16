@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning and exploring things.
 - 💞️ I’m looking to collaborate on Machine Learning Projects, Python , Django, Flutter
 - 📫 You can connect with me on 
-- Linkedin : https://www.linkedin.com/in/saurav-mishra-a61457220/
+<!-- - Linkedin : https://www.linkedin.com/in/saurav-mishra-a61457220/ -->
+<a href="https://www.linkedin.com/in/saurav-mishra-sa2003/"><img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=blue&style=for-the-bage"/></a>
 - Kaggle :  https://www.kaggle.com/sauravmishraa
 - Hugging Face : https://huggingface.co/SauravMishra
 
