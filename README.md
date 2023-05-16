@@ -9,7 +9,9 @@
 
 ## Languages, Libraries and Frameworks used :
 <img align="left" alt="Python3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<p> </p>
+<img align="left" alt="Jupyter" width="40px" src="https://avatars1.githubusercontent.com/u/25869250?s=200&v=4" />
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SauravMishraaa&show_icons=true" alt="PM" /></p>
 <p align="center">
 
