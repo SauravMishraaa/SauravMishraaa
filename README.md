@@ -5,7 +5,8 @@
 - 📫 You can connect with me on 
 <!-- - Linkedin : https://www.linkedin.com/in/saurav-mishra-a61457220/ -->
 <a href="https://www.linkedin.com/in/saurav-mishra-sa2003/"><img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=blue&style=for-the-bage"/></a>
-- Kaggle :  https://www.kaggle.com/sauravmishraa
+<a href="https://www.kaggle.com/sauravmishraa"><img src="<img src="https://img.shields.io/badge/Kaggle-Logo-20BEFF?style=flat&logo=kaggle" alt="Kaggle Logo
+"/></a>
 - Hugging Face : https://huggingface.co/SauravMishra
 
 <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="400"/>
