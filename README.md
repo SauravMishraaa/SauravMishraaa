@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurav Mishra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SauravMishraaa" alt="PM017" /> </p>
 
-- 🌱 I’m a 2nd year BTech CSE student at ITER
+- 🌱 I’m a 2nd year BTech CSE student at Institute of Technical Education & Research
 - 🔭 I’m currently working on **Machine Learning, Deep Learning and NLP**
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning** related projects
 - 💬 Ask me about **Python,ML, DL, Statistics, NLP, Mysql,Flutter**
