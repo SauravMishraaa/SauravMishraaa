@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saurav Mishra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SauravMishraaa" alt="PM017" /> </p>
 
+
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="900"/>
+
+
 - 🌱 I’m a 2nd year BTech CSE student at Institute of Technical Education & Research
 - 🔭 I’m currently working on **Machine Learning, Deep Learning and NLP**
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning** related projects
@@ -16,7 +20,6 @@
 <!-- <a href="https://huggingface.co/SauravMishra"><img src="https://img.shields.io/badge/Hugging%20Face-Logo-FFAE42?style=flat&logo=hugging%20face
 " alt="Hugging Face Logo
 "/></a> -->
-<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="400"/>
 
 ## Languages, Libraries and Frameworks used :
 <img align="left" alt="Python3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
