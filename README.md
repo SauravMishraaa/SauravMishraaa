@@ -37,7 +37,7 @@
 <p align="center">
 </p>
 
-<p>Thank you for visiting my account ! 🙏</p>
+
 
 <!-- Thank you for visiting my account ! 🙏 -->
 <!---
