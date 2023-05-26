@@ -36,7 +36,8 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=SauravMishraaa&show_icons=true" alt="PM" /></p>
 <p align="center">
 </p>
-
+### Top Languages I've Worked on!
+![Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SauravMishraaa&layout=compact&theme=chartreuse-dark)
 
 
 
