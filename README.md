@@ -5,8 +5,8 @@
 <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="900"/>
 
 
-- 🌱 I’m a 2nd year BTech CSE student at Institute of Technical Education & Research
-- 🔭 I’m currently working on **Machine Learning, Deep Learning, NLP,Computer Vision and Backend**
+- 🌱 I’m an undergraduate BTech CSE student at Institute of Technical Education & Research
+- 🔭 I’m currently working on **Machine Learning, Deep Learning, NLP,Computer Vision and Backend projects**
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning and Backend** related projects
 - 💬 Ask me about **Python,ML, DL, Statistics, NLP,FastAPI,Django Mysql,Flutter**
 - 📫 How to reach me: **sauravmishra623@gmail.com** 
