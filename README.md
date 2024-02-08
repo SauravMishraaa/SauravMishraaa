@@ -6,9 +6,9 @@
 
 
 - 🌱 I’m an undergraduate BTech CSE student at Institute of Technical Education & Research
-- 🔭 I’m currently working on **Machine Learning,Deep Learning, NLP,Computer Vision,Backend projects**
+- 🔭 I’m currently working on **Machine Learning,Deep Learning, NLP ,Computer Vision, Backend projects**
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning and Backend** related projects
-- 💬 Ask me about **Python,ML, DL, Statistics, NLP,FastAPI,Django,Mysql**
+- 💬 Ask me about **Python,ML, DL, Statistics, NLP, FastAPI, Django, SQL**
 - 📫 How to reach me: **sauravmishra623@gmail.com** 
 - 📫 You can connect with me on:
 <!-- - Linkedin : https://www.linkedin.com/in/saurav-mishra-a61457220/ -->
