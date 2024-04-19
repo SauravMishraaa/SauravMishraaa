@@ -12,9 +12,10 @@
 - 📫 How to reach me: **sauravmishra623@gmail.com** 
 - 📫 You can connect with me on:
 <!-- - Linkedin : https://www.linkedin.com/in/saurav-mishra-a61457220/ -->
-<a href="https://www.linkedin.com/in/saurav-mishra-sa2003/"><img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=blue&style=for-the-bage"/></a>
+<a href="https://www.linkedin.com/in/saurav-mishra-sa2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sauravmishra" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/sauravmishraa"><img src="https://img.shields.io/badge/Kaggle-Logo-20BEFF?style=flat&logo=kaggle" alt="Kaggle Logo
 "/></a>
+<a href="https://leetcode.com/SauravMishraaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauravmishra" height="30" width="40" /></a>
 <!-- - Hugging Face : https://huggingface.co/SauravMishra -->
 
 <!-- <a href="https://huggingface.co/SauravMishra"><img src="https://img.shields.io/badge/Hugging%20Face-Logo-FFAE42?style=flat&logo=hugging%20face
