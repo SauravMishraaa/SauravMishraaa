@@ -40,7 +40,7 @@
 </p>
 
 ## I earned these cool badges too, check them out
-[![@sauravmishra1's Holopin board](https://holopin.io/api/user/board?user=sauravmishra1)](https://holopin.io/@sauravmishra1)
+[![An image of @sauravmishra1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sauravmishra1)](https://holopin.io/@sauravmishra1)
 
 Thank you for visiting my account ! 🙏 
 <!---
