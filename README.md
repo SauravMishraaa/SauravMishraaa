@@ -39,9 +39,10 @@
 <p align="center">
 </p>
 
+## I earned these cool badges too, check them out
+[![@sauravmishra1's Holopin board](https://holopin.io/api/user/board?user=sauravmishra1)](https://holopin.io/@sauravmishra1)
 
-
-<!-- Thank you for visiting my account ! 🙏 -->
+Thank you for visiting my account ! 🙏 
 <!---
 SauravMishraaa/SauravMishraaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
