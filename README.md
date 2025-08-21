@@ -20,13 +20,13 @@
 
 ### 🌐 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/saurav-mishra-sa2003/" target="_blank">
+  <a href="https://www.linkedin.com/in/saurav-mishra-sa2003" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.kaggle.com/sauravmishraa" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Logo-20BEFF?style=flat&logo=kaggle" alt="Kaggle" />
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/SauravMishraaa/" target="_blank">
+  <a href="https://leetcode.com/SauravMishraaa" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
