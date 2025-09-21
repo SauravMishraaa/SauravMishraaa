@@ -15,8 +15,10 @@
 - 🤝 Open to collaboration on **ML, DL, and Backend** related projects
 - 💬 Ask me about: `Python`, `ML`, `DL`, `Statistics`, `NLP`, `FastAPI`, `Django`, `SQL`
 - 📫 Reach me at: **sauravmishra623@gmail.com**
-- 🤖 Chat with my Resume -> https://resume-assistantt.streamlit.app
+- 🤖 Chat with my Resume -> [resume-assistantt.streamlit.app](https://resume-assistantt.streamlit.app)
+  
 ---
+
 
 ### 🌐 Connect with Me
 <p>
