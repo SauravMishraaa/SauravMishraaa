@@ -11,12 +11,8 @@
 
 ### 👨‍🎓 About Me
 - 🎓 Undergraduate B.Tech CSE student at **Institute of Technical Education & Research**
-- 🔭 Currently working on **Machine Learning, Deep Learning, NLP, Computer Vision, Backend Projects**
-- 🤝 Open to collaboration on **ML, DL, and Backend** related projects
-- 💬 Ask me about: `Python`, `ML`, `DL`, `Statistics`, `NLP`, `FastAPI`, `Django`, `SQL`
 - 📫 Reach me at: **sauravmishra623@gmail.com**
-- 🤖 Chat with my Resume -> [resume-assistantt.streamlit.app](https://resume-assistantt.streamlit.app)
-  
+- 🤖 Chat with my Resume -> [resume-assistantt.streamlit.app](https://resume-assistantt.streamlit.app)  
 ---
 
 
