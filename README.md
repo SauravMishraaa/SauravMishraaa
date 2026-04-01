@@ -19,7 +19,7 @@
 ### 🌐 Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/saurav-mishra-sa2003" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px">
   </a>
   <a href="https://www.kaggle.com/sauravmishraa" target="_blank">
      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="LeetCode" height="30" width="40" />
@@ -74,7 +74,7 @@
 </p>
 --->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SauravMishraaa&theme=default" /><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SauravMishraaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=SauravMishraaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) --->
 <!---![](https://github-readme-streak-stats.herokuapp.com/?user=SauravMishraaa&theme=dark&hide_border=false)<br/> --->
 ---
 
