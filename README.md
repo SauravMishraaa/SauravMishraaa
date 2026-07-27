@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍🎓 About Me
-- 🧑🏻‍💻 I build scalable applications, backend APIs, and AI-driven projects.**
+- 🧑🏻‍💻 I build scalable applications, backend APIs, and AI-driven projects.
 - 📫 Reach me at: **sauravmishra623@gmail.com**
 - 🤖 Chat with my Resume -> [resume-assistantt.streamlit.app](https://resume-assistantt.streamlit.app)  
 ---
