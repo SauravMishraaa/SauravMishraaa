@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍🎓 About Me
-- 🎓 Undergraduate B.Tech CSE student at **Institute of Technical Education & Research**
+- 🧑🏻‍💻 I build scalable applications, backend APIs, and AI-driven projects.**
 - 📫 Reach me at: **sauravmishra623@gmail.com**
 - 🤖 Chat with my Resume -> [resume-assistantt.streamlit.app](https://resume-assistantt.streamlit.app)  
 ---
